@@ -10,9 +10,9 @@ This is a trial website -----------------------
 
 ```markdown
 
-### Student 
-### HOBBIS- CODING,GAMING,FOOTBALL,CRICKET 
-### SOCIAL MEDAI - INSTAGRAM ,SNAPCHAT,DISCORD,YUTUBE 
+Student 
+HOBBIS- CODING,GAMING,FOOTBALL,CRICKET 
+ SOCIAL MEDAI - INSTAGRAM ,SNAPCHAT,DISCORD,YUTUBE 
 
 Discord-COLONEL#5767
 
@@ -33,6 +33,6 @@ make paid bot too
 ### THANK YOU HOPE U LIKED IT 
 
 
-### MORE COMMING SOOOON 
+#### MORE COMMING SOON 
 
 
