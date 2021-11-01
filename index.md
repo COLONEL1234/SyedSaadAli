@@ -22,7 +22,7 @@ made verifyed bot
 making self bot 
 make paid bot too 
 
-
+```
 
 ### THANK YOU HOPE U LIKED IT 
 
